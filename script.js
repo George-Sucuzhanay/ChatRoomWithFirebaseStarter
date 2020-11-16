@@ -13,7 +13,6 @@ var database = firebase.database();
 
 // TODO: Update the below messages model with the data from firebase at reference "messages_list"".
 
-
 /// Models 
 // TODO: Empty this temporary data.`
 var messages = [{text: "Hello World", user: "Ryan"},{text: "Hello Ryan", user: "World"}];
